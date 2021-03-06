@@ -1,2 +1,2 @@
-# forum
-Fórum público para a comunidade e alunos da QAcademy
+# Suporte
+Suporte exclusivo para alunos da QAcademy
